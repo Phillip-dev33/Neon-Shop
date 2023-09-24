@@ -1,6 +1,7 @@
 ## Use these commands to install and run the backend.
-npm install then npm run dev
-add .env file to connect.
+- npm install.
+- npm run dev
+- add .env file to connect.
 
 MONGO_USERNAME = 
 MONGO_PW = 
@@ -15,7 +16,8 @@ STRIPE_SECRET =
 
 
 ## Use these commands to install and run the frontend.
-npm install then npm start
+- npm install.
+- npm start
 
 it should Open http://localhost:3000 in your browser.
 
