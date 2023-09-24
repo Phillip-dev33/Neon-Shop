@@ -1,4 +1,4 @@
-## Use these commands to install and run backend.
+## Use these commands to install and run the backend.
 npm install then npm run dev
 add .env file to connect.
 
@@ -14,7 +14,7 @@ CLOUD_API_SECRET =
 STRIPE_SECRET =
 
 
-## Use these commands to install and run frontend.
+## Use these commands to install and run the frontend.
 npm install then npm start
 
 it should Open http://localhost:3000 in your browser.
